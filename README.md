@@ -8,9 +8,8 @@
 ### 各大官方平台
 - 官方邮箱 : handsome_development@outlook.com
 
-  官方b站 : [点击链接进入](https://b23.tv/qcl48b9 "")    
-
-  官方用爱发电 ：[点击链接进入](https://afdian.net/a/handsome-yang-ge "")
+  [点击链接进入官方b站](https://b23.tv/qcl48b9 "")    
+  [点击链接进入官方用爱发电](https://afdian.net/a/handsome-yang-ge "")
 - 官方QQ号 : 1831669267
 ### 程序展览版块
 以下为NGU开发的工具(NGU为Handsome的合作工作室) [点击链接进入NGU开发团队官网](https://ngu-team.github.io "")
