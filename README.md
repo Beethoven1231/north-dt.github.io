@@ -16,3 +16,6 @@
 ### 小游戏展览版块
 - 以下为Handsome开发的经典致敬小游戏(开源, 禁止商业)
   - 1.New Sokoban 1.0 : https://wwsj.lanzout.com/iVtZ00ljelbc 密码:1314
+
+
+###### 如果想要与 Handsome合作/在Handsome官网发布程序的, 请联系QQ1831669267, 我们不收money, 只看质量
