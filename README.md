@@ -15,6 +15,8 @@
 - 以下为NGU开发的工具(NGU为Handsome的合作工作室) NGU开发团队官网 : <https://ngu-team.github.io>
   - 1.Equation queen 1.0 : <https://wwsj.lanzout.com/ig4Es0le9eod>
   - 2.NGU's CALC 1.0 : <https://wwsj.lanzout.com/iptwP0lpzhze>
+- 以下为Handsome开发的工具
+  - 1.The First C# Program : <https://wwsj.lanzout.com/iXwfB0lwii1g> (注:本程序是阳哥写的第一个C#程序, 因此打包发布纪念)
 
 ### 小游戏展览版块
 - 以下为NGU开发的小游戏(开源, 禁止商业)
