@@ -1,9 +1,8 @@
 # Handsome开发团队官方网站
 ### Handsome员工信息:
 - 程序员：阳哥，龙sir，sensei，阳佟雨寒                                      
-- 画师：毓，恋
-- 策划：苡之歆.                  
-- 音效师：一手
+- 画师：毓，love瑜
+- (想要加入Handsome联系1831669267哦, 具体介绍可见官方b站)
                        
 ### Handsome各大官方账号
 - 官方邮箱 : handsome_development@outlook.com
