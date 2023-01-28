@@ -11,7 +11,7 @@
 - 官方QQ号 : 1831669267
 
 ### 工具展览版块
-- 以下为NGU开发的工具(NGU为Handsome的合作工作室) NGU开发团队官网 : <https://ngu-team.github.io>
+- 以下为NGU开发的工具(NGU为Handsome的合作工作室, 与Handsome合称为NortH) NGU开发团队官网 : <https://ngu-team.github.io>
   - 1.Equation queen 1.0 : <https://wwsj.lanzout.com/ig4Es0le9eod>
   - 2.NGU's CALC 1.0 : <https://wwsj.lanzout.com/iptwP0lpzhze>
 - 以下为Handsome开发的工具
@@ -27,8 +27,17 @@
 ### 共创世界作品展览版块
 - 暂无
 
-### 正在开发的项目
-- Handsome与NGU正在联合开发一款独立RPG游戏 "A Different Travel" , 敬请期待
+### 接单版块
+- 1.二次函数求解
+  - 引擎:python/c语言 发起人:sensei 酬金:0 状态:暂空
+- 2.二维图像绘制
+  - 引擎:python/c语言 发起人:sensei 酬金:0 状态:暂空
+- 3.小型RPG游戏
+  - 引擎:unityC# 发起人:阳哥 酬金:未定 状态:准备阶段 有难度,需要3~5人负责(目前2人参与)
+- 4.共创世界原创程序(类型不限, 看质量)
+  - 引擎:scratch 发起人:阳哥 酬金:5.00 
+- 5.Equation Queen 1.5（求解一元一次方程与一元二次方程）
+  - 引擎：python 发起人：龙sir 酬金:1.00 状态：暂空, 程序已完成一半(想要接单请联系龙sir索要Equation Queen 1.0版本源码)
 
 ### 如果想要与 Handsome或NGU合作/在Handsome或NGU官网发布程序的, 请联系QQ 1831669267(Handsome官方) 或 3389786744(NGU官方), 我们不收money, 只看质量!
 ###### (支持上线 : 工具, 小游戏, 共创世界作品)
