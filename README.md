@@ -16,6 +16,7 @@
   - 2.NGU's CALC 1.0 : <https://wwsj.lanzout.com/iptwP0lpzhze>
 - 以下为Handsome开发的工具
   - 1.The First C# Program : <https://wwsj.lanzout.com/iXwfB0lwii1g> (注:本程序是阳哥写的第一个C#程序, 因此打包发布纪念)
+  - 2.Banking System 1.0 : <https://wwsj.lanzout.com/iCX5r0m26v7e>
 
 ### 小游戏展览版块
 - 以下为NGU开发的小游戏(开源, 禁止商业)
@@ -26,6 +27,9 @@
 
 ### 共创世界作品展览版块
 - 暂无
+
+### 视频展览版块
+- 1.New Sokoban 1.0 正式发布视频 : <https://www.bilibili.com/video/BV1Kx4y1u7yw/?spm_id_from=333.999.0.0&vd_source=45fb488dcc3eb7d2dee0660ead44325f>
 
 ### NortH接单版块
 - 1.二次函数求解
