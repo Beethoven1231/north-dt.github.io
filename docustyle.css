@@ -1,0 +1,130 @@
+/* Ambiera Documentation Template 
+   copyright 2002-2009 Nikolaus Gebhardt, Ambiera */
+
+body
+{
+	margin: 10px 10px 10px 10px;
+	padding: 0; 
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(69, 84, 99);
+	background-color:#FFFFFF;
+	font-size: 14px;
+	max-width: 1000px;
+	line-height: 1.4;
+}
+
+a
+{
+	color: #39005f;
+	text-decoration: underline;
+}
+
+a:link {
+	color: #39005f;
+	text-decoration: underline;
+}
+
+a:visited {
+    color: #39005f;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #39005f;
+}
+
+a:active {
+	color: #39005f;
+}
+
+h1, h2, h3, h4, h5, h6	{
+	font-family: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
+	font-weight: bold;
+	margin-top: 3px;
+	margin-bottom: 5px;
+	width: 90%;
+	color: #000000;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+h4 {
+	font-size: 12px;
+	color: #666666;
+}
+
+h5 {
+	font-size: 11px;
+}
+
+hr
+{
+	border: 0px solid #A280B7;
+	background-color:#A280B7;
+	height:2px;
+}
+
+table.tutorialbox
+{
+	border-top:1px #999999 solid;
+	border-bottom:1px #000000 solid;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #eeeeee;
+}
+
+td.tutempty
+{
+	background-color:#ffffff;
+}
+
+td.tutwithleftborder
+{
+	border-left:1px #999999 solid;
+}
+
+td.tutwithrightborder
+{
+	border-right:1px #999999 solid;
+}
+
+.tutorialbox td
+{
+	border-bottom:1px #999999 solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+tr.tutorialboxheader 
+{
+	background-color: #dddddd;
+}
+body{
+         margin:0;
+         background-color:#FFF;
+         background-image:linear-gradient(
+                   transparent,
+                   transparent 50%,
+                   rgba(55,110,176,0.4) 50%
+                 ),
+              linear-gradient(
+                   to right,
+                   transparent,
+                   transparent 50%,
+                   rgba(55,110,176,0.4) 50%
+                 );
+         background-size: 40px 40px;
+} 
+
